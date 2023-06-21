@@ -7,4 +7,4 @@ Predicting traffic accident hotspots is crucial for ensuring public safety, impr
 
 ## Methodology
 ![new_proposed_archit](https://github.com/SaiDeepthiYeddula/TCN_Accident-Hotspot-Predict/assets/42706378/dcd34023-cef5-4d5b-a66f-cd5aa90a10d9)
-
+Proposed Temporal Convolutional Network (TCN) Architecture. The diagram illustrates the integration of spatial features and temporal characteristics of traffic accident hotspots into the TCN
