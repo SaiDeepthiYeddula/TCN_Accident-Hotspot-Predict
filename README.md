@@ -13,10 +13,10 @@ Proposed Temporal Convolutional Network (TCN) Architecture. The diagram illustra
 
 ## Annual Trend Analysis in Accident Frequency
 
-![new_vis_1 (1)](https://github.com/SaiDeepthiYeddula/TCN_Accident-Hotspot-Predict/assets/42706378/897f0239-f7a6-4381-85df-ec0d5dcd086d | width=100)
+![new_vis_1 (1)](https://github.com/SaiDeepthiYeddula/TCN_Accident-Hotspot-Predict/assets/42706378/897f0239-f7a6-4381-85df-ec0d5dcd086d)
 
 ## Impact of Weather Conditions on Accident Frequency (2016-2021)
-![new_vis_2 (1)](https://github.com/SaiDeepthiYeddula/TCN_Accident-Hotspot-Predict/assets/42706378/e10ca293-770f-42dd-a7d7-e4a409967dc4 | width=100)
+![new_vis_2 (1)](https://github.com/SaiDeepthiYeddula/TCN_Accident-Hotspot-Predict/assets/42706378/e10ca293-770f-42dd-a7d7-e4a409967dc4)
 
 ## Route-Specific Accident Frequency Analysis (2016-2021)
-![new_vis_3 (1)](https://github.com/SaiDeepthiYeddula/TCN_Accident-Hotspot-Predict/assets/42706378/f1181231-4289-4c69-9427-7ed31c310f16 | width=100)
+![new_vis_3 (1)](https://github.com/SaiDeepthiYeddula/TCN_Accident-Hotspot-Predict/assets/42706378/f1181231-4289-4c69-9427-7ed31c310f16)
