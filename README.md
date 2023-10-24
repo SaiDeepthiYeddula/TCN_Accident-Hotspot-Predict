@@ -29,3 +29,11 @@ The correlation between weather conditions and the number of traffic accidents h
 Across various road types in the USA over six years, it becomes clear that State Highway Routes and Local Streets consistently reported the highest number of accidents on an average, likely due to increased traffic density and complex intersections, as shown in the below Figure. Conversely, with fewer conflict points and safety-focused designs, U.S. Highways and Interstates recorded lower accident figures. County Roads reported fewer accidents, serving less populated areas and experiencing reduced traffic volume. This trend has persisted over the years, suggesting the dominant influence of road type and usage on accident rates. 
 
 <img src="https://github.com/SaiDeepthiYeddula/TCN_Accident-Hotspot-Predict/assets/42706378/f1181231-4289-4c69-9427-7ed31c310f16" width="500" height="350">
+
+## Run
+run main.ipynb
+
+## Packages to be installed
+!pip install scikit-learn
+!pip install keras
+!pip install keras-tcn
