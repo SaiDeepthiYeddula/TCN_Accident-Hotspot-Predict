@@ -34,6 +34,6 @@ Across various road types in the USA over six years, it becomes clear that State
 run main.ipynb
 
 ## Packages to be installed
-!pip install scikit-learn
-!pip install keras
-!pip install keras-tcn
+scikit-learn
+keras
+keras-tcn
