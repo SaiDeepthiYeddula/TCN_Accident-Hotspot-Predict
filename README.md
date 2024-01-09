@@ -1,6 +1,6 @@
 # Traffic Accident Hotspot Prediction Using Temporal Convolutional Networks: A Spatio-Temporal Approach
 
-[ACM SIGSPATIAL 2023] Traffic Accident Hotspot Prediction Using Temporal Convolutional Networks: A Spatio-Temporal Approach
+[ACM SIGSPATIAL 2023] [Traffic Accident Hotspot Prediction Using Temporal Convolutional Networks: A Spatio-Temporal Approach](https://dl.acm.org/doi/abs/10.1145/3589132.3625599?casa_token=1CI_-CMcbJ8AAAAA:cdgWaTPuG-iERRRrIIWdxv61bsd7S0gCVFzFzHDVAkgJxP28Aiz8V47SDwm3XOVCs7RL-sP02WSi)
 
 Sai Deepthi Yeddula, Chen Jiang, Bo Hui, Wei-Shinn Ku
 
@@ -37,3 +37,18 @@ run main.ipynb
 scikit-learn
 keras
 keras-tcn
+
+
+## Citation
+If you use our implementation, please cite our paper using:
+
+BibTex:
+
+@inproceedings{yeddula2023traffic,
+  title={Traffic Accident Hotspot Prediction Using Temporal Convolutional Networks: A Spatio-Temporal Approach},
+  author={Yeddula, Sai Deepthi and Jiang, Chen and Hui, Bo and Ku, Wei-Shinn},
+  booktitle={Proceedings of the 31st ACM International Conference on Advances in Geographic Information Systems},
+  pages={1--4},
+  year={2023}
+}
+
